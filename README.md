@@ -6,8 +6,8 @@ And I used these references when I got stuck while building the app:
 
 This is a **work in progress** so in the coming weeks you'll see:
 
-- [X] A [link](https://marvokdolor.github.io/pomodoro-clock-fcc/) to this app deployed to GitHub-pages. [Reference](https://medium.freecodecamp.org/surge-vs-github-pages-deploying-a-create-react-app-project-c0ecbf317089)
+- [X] A [link](https://marvokdolor.github.io/pomodoro-clock-fcc/) to this app deployed to GitHub-pages ([reference](https://medium.freecodecamp.org/surge-vs-github-pages-deploying-a-create-react-app-project-c0ecbf317089))
 - [ ] An app that passes all the tests in the test suite (hamburger icon in upper left corner)
-- [ ] Better design using Bootstrap.
+- [ ] Better design using Bootstrap
 
 If you're curious about my freeCodeCamp work please check out my [portfolio](https://codepen.io/marvokdolor/full/bmLbQy/) currently on CodePen, but moving to GitHub-pages in the coming months.
