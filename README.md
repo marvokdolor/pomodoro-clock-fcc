@@ -2,7 +2,7 @@
 
 I used [Create React App](https://github.com/facebook/create-react-app) to make the set up easier.
 And I used these references when I got stuck while building the app:
-- https://codesandbox.io/s/7zyz2y4p5j for tick and startCountDown
+- https://codesandbox.io/s/7zyz2y4p5j for tick() and startCountDown()
 
 This is a **work in progress** so in the coming weeks you'll see:
 
